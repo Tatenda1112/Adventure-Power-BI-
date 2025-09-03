@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # Adventure Works Sales Dashboard (Power BI)
 
 This project involves creating a one-page dashboard in Power BI that provides insights into Adventure Works' sales performance.  
