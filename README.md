@@ -14,7 +14,7 @@ The dashboard is designed to answer the following key business questions:
 
 ## Dashboard Preview  
 
-![Adventure Works Dashboard](38fbaac4-72d0-4e06-8857-e5a7cf87026b.png)
+![dashboard](https://github.com/user-attachments/assets/c65e8b5c-b695-401a-a9ae-3f0d03c8a367)
 
 ---
 
