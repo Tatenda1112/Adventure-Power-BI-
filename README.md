@@ -14,7 +14,8 @@ The dashboard is designed to answer the following key business questions:
 
 ## Dashboard Preview  
 
-![dashboard](https://github.com/user-attachments/assets/![Uploading image.png…]()
+<img width="800" height="542" alt="image" src="https://github.com/user-attachments/assets/c86a9f59-679f-4b41-9f8e-12ec760eedb6" />
+
 )
 
 ---
