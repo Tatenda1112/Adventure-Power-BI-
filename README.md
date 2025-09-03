@@ -30,7 +30,7 @@ The dashboard is designed to answer the following key business questions:
 
 ## Tools Used
 - **Power BI** – for building the dashboard  
-- **AdventureWorks Dataset** – sample sales data  
+- **AdventureWorks Dataset** – sales data  
 
 ---
 
